@@ -14,5 +14,5 @@ Once finished, I've learnt what ***Git***, ***Githube*** and ***Cloud9 IDE*** ar
 I've been struggling to understand what a repository is and all the git's codes.
 
 
-[Thanks to CodeInstitue I'm learning all those thingsand  how to become a developer](https://www.codeinstitute.net)
+[Thanks to CodeInstitue I'm learning all those things and  how to become a developer](https://www.codeinstitute.net)
 
